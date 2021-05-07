@@ -1,0 +1,15 @@
+{
+  "name": "caeser-cipher-cli",
+  "version": "1.0.0",
+  "description": "Caesar Cipher CLI encoder/decoder tool",
+  "main": "caeser-cipher-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vsosevic",
+  "license": "ISC",
+  "homepage": "https://github.com/vsosevic/rs-nodejs",
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
